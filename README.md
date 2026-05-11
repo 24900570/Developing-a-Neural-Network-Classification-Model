@@ -39,7 +39,7 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name:AJIH A
+### Name:AJITH A
 
 ### Register Number:212224230012
 ```
